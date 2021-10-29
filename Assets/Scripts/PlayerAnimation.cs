@@ -112,5 +112,4 @@ public class PlayerAnimation : MonoBehaviour
             anim.SetInteger("condition", 0);
         }
     }
-
 }
